@@ -4,16 +4,10 @@
   "description": "* Development Editor [VSCODE](https://code.visualstudio.com/)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "lite-server"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/aug-18/dacdemo.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/aug-18/dacdemo/issues"
-  },
-  "homepage": "https://github.com/aug-18/dacdemo#readme"
+  
+  "dependencies": {
+    "lite-server": "^2.4.0"
+  }
 }
