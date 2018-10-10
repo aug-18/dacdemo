@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+
+    <style>
+        h1{
+            border:"30px dotted green";
+            background: lightblue;
+            color:white;
+            text-align: center;
+        }
+        
+        img{
+            border:30px dotted rgb(38, 0, 128);
+        }
+
+    </style>
+
+    
+</head>
+<body>
+   
+    <img id='img1' src="1.jpg" alt="Image Not Avaialable" />
+</body>
+
+<script>
+        var counter = 0;
+        var img1 = document.getElementById("img1");
+
+        setInterval(()=>{
+            if(counter % 2 == 0){
+                img1.style.borderColor = "green";
+            } else {
+                img1.style.borderColor = "red";
+            }
+
+            counter++;
+        }, 1000);
+    </script>
+</html>
