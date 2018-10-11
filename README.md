@@ -16,6 +16,11 @@
 # ASSIGNMENTS
 * Working with inspect element tool.
 * Working with BORDER, PADDING MARGIN.
+* Working with Overflow.
+```
+    overflow-y : scroll; // APPLY THIS AT PARENT.
+```
+* Divide your screen vertically [2 block - 50%]
 
 
 # ASSIGNMENTS
