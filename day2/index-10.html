@@ -1,0 +1,35 @@
+<html lang="en">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        body{
+            margin: 0px;
+        }
+
+        img{
+            border:30px dotted rgb(38, 0, 128);
+        }
+    </style>
+</head>
+<body>
+    <div style="color:white;font-size: 75px; background:gold;height:100%;display:flex;justify-content: center;;align-items: center;">
+        <img id="img1" src="./1.jpg" alt="">
+    </div>
+</body>
+
+<script>
+        var counter = 0;
+        var img1 = document.getElementById("img1");
+
+        setInterval(()=>{
+            if(counter % 2 == 0){
+                img1.style.borderColor = "green";
+            } else {
+                img1.style.borderColor = "red";
+            }
+
+            counter++;
+        }, 1000);
+    </script>
+</html>
