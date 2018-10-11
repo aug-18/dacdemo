@@ -13,6 +13,10 @@
     npm run dev
 ```
 
+# ASSIGNMENTS
+* Working with inspect element tool.
+* Working with BORDER, PADDING MARGIN.
+
 
 # ASSIGNMENTS
 * Program-1. Create HTML Page (Render Hello World).
