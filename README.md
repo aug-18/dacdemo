@@ -13,7 +13,7 @@
     npm run dev
 ```
 
-# ASSIGNMENTS
+# ASSIGNMENTS - DAY2
 * Working with inspect element tool.
 * Working with BORDER, PADDING MARGIN.
 * Working with Overflow.
