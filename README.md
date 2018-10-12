@@ -14,6 +14,11 @@
 ```
 
 # ASSIGNMENTS - DAY2
+* Working with CSS ID Rule
+* Working with CSS CLASS Rule. 
+
+
+# ASSIGNMENTS - DAY2
 * Working with inspect element tool.
 * Working with BORDER, PADDING MARGIN.
 * Working with Overflow.
