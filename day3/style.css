@@ -1,0 +1,24 @@
+.common{
+    color:white;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.amit-batra{
+    font-family: cursive;
+}
+
+#child1{
+    background: orange;
+    height: 33.3%;
+}
+
+#child2{
+    background: rgb(188, 188, 201);
+    height: 33.3%;
+}
+
+#child3{
+    background: green;
+    height: 33.3%;
+}
