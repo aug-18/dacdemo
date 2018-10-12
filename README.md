@@ -17,6 +17,8 @@
 * Working with CSS ID Rule
 * Working with CSS CLASS Rule.
 * Working with CSS Class Rule [Multiple Class] 
+* Working with External CSS.
+* Create GOOGLE PAGE with your NAME.  
 
 
 # ASSIGNMENTS - DAY2

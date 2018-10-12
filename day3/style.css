@@ -1,3 +1,13 @@
+body{
+    margin:0px;
+}
+
+.make-center{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+
 .common{
     color:white;
     font-size: xx-large;
