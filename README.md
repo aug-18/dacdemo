@@ -15,7 +15,8 @@
 
 # ASSIGNMENTS - DAY2
 * Working with CSS ID Rule
-* Working with CSS CLASS Rule. 
+* Working with CSS CLASS Rule.
+* Working with CSS Class Rule [Multiple Class] 
 
 
 # ASSIGNMENTS - DAY2
