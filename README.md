@@ -5,7 +5,9 @@
     node --version
     npm --version
     npm init
+    
     npm install lite-server --save
+    npm install bootstrap --save
 
     "scripts": {
         "dev": "lite-server"
