@@ -3,6 +3,7 @@
 * [Install Node Js](https://nodejs.org/en/)  
 ```
     node --version
+    npm --version
     npm init
     npm install lite-server --save
 
