@@ -28,6 +28,7 @@
     border border-primary
 ```
 * Working with character entities. 
+* Working with bootstrap continue. [Colorful window]. 
 
 
 
