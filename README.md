@@ -17,6 +17,7 @@
 ```
 
 # ASSIGNMENTS - DAY4
+* [Character Entity Link](http://graphemica.com/search?q=smile)
 * Working with `npm init`. Note - package.json
 * Working with `npm install bootstrap --save` Note - node_modules
 * Working with `npm install lite-server --save` Note - "dev" : "lite-server"
