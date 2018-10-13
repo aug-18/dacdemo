@@ -16,6 +16,21 @@
     npm run dev
 ```
 
+# ASSIGNMENTS - DAY4
+* Working with `npm init`. Note - package.json
+* Working with `npm install bootstrap --save` Note - node_modules
+* Working with `npm install lite-server --save` Note - "dev" : "lite-server"
+* Working with bootstrap. 
+```
+    container/container-fluid
+    row
+    col-x [1 - 12]
+    border border-primary
+```
+* Working with character entities. 
+
+
+
 # ASSIGNMENTS - DAY3
 * Working with CSS ID Rule
 * Working with CSS CLASS Rule.
