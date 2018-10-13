@@ -1,4 +1,4 @@
-## DAY-1
+## SETUP
 * Development Editor [VSCODE](https://code.visualstudio.com/)
 * [Install Node Js](https://nodejs.org/en/)  
 ```
@@ -52,7 +52,7 @@
 * Divide your screen vertically [2 block - 50%]
 
 
-# ASSIGNMENTS
+# ASSIGNMENTS - DAY1
 * Program-1. Create HTML Page (Render Hello World).
 * Program-2. Apply style to 'Hello World' [Program-1].
 * Program-3. Divide the screen Horizontally.
