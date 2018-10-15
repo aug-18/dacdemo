@@ -1,0 +1,42 @@
+<html lang="en">
+<head>
+    <title>Document</title>
+    <style>
+        .abcd{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .xyz{
+            font-size: 80px;
+            color:white;
+        }
+
+        div{
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+    
+    <div id="id1" style="background:gold;" class="abcd xyz">
+            0
+    </div>
+
+</body>
+</html>
+
+<script type="text/javascript">
+    
+    let counter = 0;
+    setInterval(()=>{
+        let a = document.getElementById("id1");
+        
+        a.innerHTML = counter + "";
+        
+        counter++;
+    }, 1000);
+
+</script>
+

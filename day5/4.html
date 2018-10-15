@@ -1,0 +1,51 @@
+<html lang="en">
+<head>
+    <title>Document</title>
+    <style>
+        div{
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+    
+    <div id="id1" style="background:gold;" class="abcd">
+
+    </div>
+
+</body>
+</html>
+
+<script type="text/javascript">
+    
+    let counter = 0;
+    setInterval(()=>{
+        let a = document.getElementById("id1");
+        
+        let remainder = counter%10;
+        if(remainder == 0){
+            a.style.background = "red";
+        } else if(remainder == 1) {
+            a.style.background = "green";
+        } else if(remainder == 2) {
+            a.style.background = "blue";
+        }else if(remainder == 3) {
+            a.style.background = "silver";
+        }else if(remainder == 4) {
+            a.style.background = "yellow";
+        }else if(remainder == 5) {
+            a.style.background = "tomato";
+        }else if(remainder == 6) {
+            a.style.background = "pink";
+        }else if(remainder == 7) {
+            a.style.background = "purple";
+        }else if(remainder == 8) {
+            a.style.background = "lightblue";
+        }else if(remainder == 9) {
+            a.style.background = "lightcyan";
+        }
+        counter++;
+    }, 1000);
+
+</script>
+

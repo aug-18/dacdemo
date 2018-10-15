@@ -16,6 +16,12 @@
     npm run dev
 ```
 
+# ASSIGNMENTS - DAY5
+* Interactive Background
+* Counter
+* Timer
+* Dynamic Blocks
+
 # ASSIGNMENTS - DAY4
 * [Character Entity Link](http://graphemica.com/search?q=smile)
 * Working with `npm init`. Note - package.json
