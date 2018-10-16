@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+
+    <style>
+        .make-left{
+            display: flex;
+            justify-content: left;
+            align-items: center;
+        }
+
+        .make-center{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .beautify{
+            font-size: 35px;
+        }
+    </style>
+
+    <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.css">
+    <link rel="stylesheet" href="../node_modules/animate.css/animate.css">
+    <script src="7.js"></script>
+</head>
+<body>
+    
+    <!--HEADER-->
+    <div class="container-fluid sticky-top">
+        <div class="row bg-danger" style="height:70px;">
+            <div class="col-3 text-light make-left">
+                DACBOOK
+            </div>
+
+            <div class="col-6 make-center">
+                <input id="inputId" class="form-control form-control-lg" type="text" placeholder="say something...">
+            </div>
+            <div class="col-3 make-left">
+                <button type="button" class="btn btn-light" onclick="postOnYourWall();" >Post Here...</button>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- BLOCKS-->
+    <div class="container-fluid mt-2" id="parentId">
+        <div class="row mb-2 animated pulse d-none" style="height:150px; " id="refBoxId">
+            <div class="col-sm-3">
+            </div>
+
+            <div class="col-sm-6 rounded  make-center text-white bg-danger beautify">
+                Hello World
+            </div>
+
+            <div class="col-3">
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
