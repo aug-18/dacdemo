@@ -1,0 +1,15 @@
+.make-left{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+
+.make-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.beautify-1{
+    font-size: 20px;
+}

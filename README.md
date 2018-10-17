@@ -1,6 +1,9 @@
 ## SETUP
 * Development Editor [VSCODE](https://code.visualstudio.com/)
-* [Install Node Js](https://nodejs.org/en/)  
+* [Install Node Js](https://nodejs.org/en/) 
+* [MDN DEV DOCS](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById) 
+* [WINDOW](https://developer.mozilla.org/en-US/docs/Web/API/Window)
+* [ANIMATE](https://daneden.github.io/animate.css/)
 ```
     node --version
     npm --version
@@ -15,6 +18,8 @@
 
     npm run dev
 ```
+
+
 
 # ASSIGNMENTS - DAY5
 * Interactive Background
