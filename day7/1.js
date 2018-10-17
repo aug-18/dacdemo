@@ -26,3 +26,15 @@ function postOnWall(){
         console.log(err);
     }
 }
+
+
+
+function likeCount(currentBtnRef){
+    let spanElement = currentBtnRef.children[0];
+    
+    let counterValue = spanElement.innerHTML;
+    let counterNum = Number(counterValue);
+    counterNum = counterNum + 1;
+
+    spanElement.innerHTML = counterNum;
+}
