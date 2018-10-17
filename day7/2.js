@@ -43,6 +43,7 @@ function likeCount(currentBtnRef){
 function refImageUpload(fileRef){
     let uploadedImage = fileRef.files[0];
     let newImageUrl = URL.createObjectURL(uploadedImage);
+    
     let imageBlockRef = document.getElementById("refBlockImage");
     imageBlockRef.children[1].children[0].children[0].children[0].src = newImageUrl;
 }
