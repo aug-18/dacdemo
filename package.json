@@ -2,7 +2,7 @@
   "name": "web-demo",
   "version": "1.0.0",
   "description": "* Development Editor [VSCODE](https://code.visualstudio.com/) * [Install Node Js](https://nodejs.org/en/)   ```     node --version     npm --version     npm init     npm install lite-server --save",
-  "main": "index.js",
+  "main": "index.html",
   "dependencies": {
     "animate.css": "^3.7.0",
     "bootstrap": "^4.1.3"
